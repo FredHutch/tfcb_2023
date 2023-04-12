@@ -12,42 +12,41 @@ This document is the syllabus for this course.
 
 ## Class schedule
 
-Time: 3:20PM-4:40PM, Tue & Thu, Sep 29 - Dec 6 2022
+Time: 3:20PM-4:40PM, Tue & Thu, Sep 28 - Dec 5 2023
 
 Class Location: B1-072/074 (Weintraub Building, Fred Hutch SLU campus)
 
-TA Office Hours: 11AM-12PM Thu (Jacob), 1:00PM-2:00PM (Avi) Wed, Oct 5 - Dec 7 2022
+TA Office Hours: TBD
 
+TA Office Hours Location: Zoom (see Slack) 
 
-TA Office Hours Location: Zoom (see Slack) or the first floor of the [Molecular Engineering Building](https://www.washington.edu/maps/#!/mol) in the UW Main Campus (Avi) or 2nd floor of Steam Plant @ Fred Hutch
-
-| Lecture | Date   | Instructor                | Topic                                                                           |
-| ------- | ------ | ------------------------- | ------------------------------------------------------------------------------- |
-| 1       | Sep 29 | Rasi Subramaniam          | [Introduction to course, Git, VScode, Markdown](lectures/lecture01/)            |
-| 2       | Oct 4  | Avi Swartz & Jacob Greene | [Software installation and troubleshooting](software/README.md)                 |
-| 3       | Oct 6  | Rasi Subramaniam          | [Data and project organization](lectures/lecture03/)                            |
-| 4       | Oct 11 | Melody Campbell           | [Introduction to the command line](lectures/lecture04/)                         |
-| 5       | Oct 13 | Melody Campbell           | [Intro to the command line (continued)](lectures/lecture05/)                    |
-| 6       | Oct 18 | Phil Bradley              | [Introduction to Python](lectures/lecture06/)                                   |
-| 7       | Oct 20 | Phil Bradley              | [Intro to Python (continued)](lectures/lecture07/)                              |
-| 8       | Oct 25 | Maggie Russell            | [Data structures and biological analyses using Python](lectures/lecture08/)     |
-| 9       | Oct 27 | Maggie Russell            | [Data structures/biological analyses in Python (continued)](lectures/lecture09) |
-| 10      | Nov 1  | Phil Bradley              | [Modeling and machine learning in Python](lectures/lecture10)                   |
-| 11      | Nov 3  | Phil Bradley              | [Modeling/machine learning in Python (continued)](lectures/lecture11)           |
-| 12      | Nov 8  | Rasi Subramaniam          | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
-| 13      | Nov 10 | Rasi Subramaniam          | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
-| 14      | Nov 15 | Gavin Ha                  | [Introduction to sequencing data](lectures/lecture14/)                          |
-| 15      | Nov 17 | Gavin Ha                  | [Genomic data in R](lectures/lecture15/)                                        |
-| 16      | Nov 22 | Rasi Subramaniam          | [Biological sequences and annotations in Bioconductor](lectures/lecture16/)     |
-| 17      | Nov 29 | Maggie Russell            | [Immune repertoire sequencing and analysis](lectures/lecture17/)                |
-| 18      | Dec 1  | Manu Setty                | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
-| 19      | Dec 6  | Manu Setty                | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                 |
+| Lecture | Date   | Instructor       | Topic                                                                           |
+| ------- | ------ | ---------------- | ------------------------------------------------------------------------------- |
+| 1       | Sep 28 | Rasi Subramaniam | [Introduction to course, Git, VScode, Markdown](lectures/lecture01/)            |
+| 2       | Oct 3  | TA-led           | [Software installation and troubleshooting](software/README.md)                 |
+| 3       | Oct 5  | Rasi Subramaniam | [Data and project organization](lectures/lecture03/)                            |
+| 4       | Oct 10 | Melody Campbell  | [Introduction to the command line](lectures/lecture04/)                         |
+| 5       | Oct 12 | Melody Campbell  | [Intro to the command line (continued)](lectures/lecture05/)                    |
+| 6       | Oct 17 | Phil Bradley     | [Introduction to Python](lectures/lecture06/)                                   |
+| 7       | Oct 19 | Phil Bradley     | [Intro to Python (continued)](lectures/lecture07/)                              |
+| 8       | Oct 24 | Maggie Russell   | [Data structures and biological analyses using Python](lectures/lecture08/)     |
+| 9       | Oct 26 | Maggie Russell   | [Data structures/biological analyses in Python (continued)](lectures/lecture09) |
+| 10      | Oct 31 | Phil Bradley     | [Modeling and machine learning in Python](lectures/lecture10)                   |
+| 11      | Nov 2  | Phil Bradley     | [Modeling/machine learning in Python (continued)](lectures/lecture11)           |
+| 12      | Nov 7  | Rasi Subramaniam | [Data analysis using R/tidyverse](lectures/lecture12/)                          |
+| 13      | Nov 9  | Rasi Subramaniam | [Data analysis using R/tidyverse (continued)](lectures/lecture13/)              |
+| 14      | Nov 14 | TBD              | [Introduction to sequencing data](lectures/lecture14/)                          |
+| 15      | Nov 16 | TBD              | [Genomic data in R](lectures/lecture15/)                                        |
+| 16      | Nov 21 | Rasi Subramaniam | [Biological sequences and annotations in Bioconductor](lectures/lecture16/)     |
+| 17      | Nov 28 | Maggie Russell   | [Immune repertoire sequencing and analysis](lectures/lecture17/)                |
+| 18      | Nov 30 | Manu Setty       | [Single-cell RNA-seq analysis](lectures/lecture18/)                             |
+| 19      | Dec 5  | Manu Setty       | [Single-cell RNA-seq analysis (continued)](lectures/lecture19/)                 |
 
 Materials for each lecture will be available in this repository prior to the class session;
 the link for each topic will take you to the folder containing materials for that class.
 Please note that materials are considered in draft form until the beginning of the class session in which they will be presented (or if otherwise indicated).
 
-For further assistance, TAs Avi Swartz and Jacob Greene will be available to offer assistance just after the regular class session.
+For further assistance, TAs TBD will be available to offer assistance just after the regular class session.
 
 ## Homework and grading
 
@@ -63,14 +62,14 @@ For further assistance, TAs Avi Swartz and Jacob Greene will be available to off
 
 | Homework | Assigned Date | Due Date | Topic                                                                  |
 | -------- | ------------- | -------- | ---------------------------------------------------------------------- |
-| 1        | Oct 6         | Oct 13   | [Reproducible science, Git and GitHub, Markdown](homeworks/homework01) |
-| 2        | Oct 13        | Oct 20   | [Unix command line](homeworks/homework02)                              |
-| 3        | Oct 20        | Oct 27   | [Programming in Python](homeworks/homework03)                          |
-| 4        | Oct 27        | Nov 3    | [Python analysis](homeworks/homework04)                                |
-| 5        | Nov 3         | Nov 10   | [Modeling and machine learning in Python](homeworks/homework05)        |
-| 6        | Nov 10        | Nov 17   | [Data visualization and manipulation in R](homeworks/homework06)       |
-| 7        | Nov 22        | Dec 1    | [Genomic data in R](homeworks/homework07)                              |
-| 8        | Dec 1         | Dec 8    | [Single-cell RNA-seq analysis](homeworks/homework08)                   |
+| 1        | Oct 5         | Oct 12   | [Reproducible science, Git and GitHub, Markdown](homeworks/homework01) |
+| 2        | Oct 12        | Oct 19   | [Unix command line](homeworks/homework02)                              |
+| 3        | Oct 19        | Oct 26   | [Programming in Python](homeworks/homework03)                          |
+| 4        | Oct 26        | Nov 2    | [Python analysis](homeworks/homework04)                                |
+| 5        | Nov 2         | Nov 9    | [Modeling and machine learning in Python](homeworks/homework05)        |
+| 6        | Nov 9         | Nov 16   | [Data visualization and manipulation in R](homeworks/homework06)       |
+| 7        | Nov 21        | Nov 30   | [Genomic data in R](homeworks/homework07)                              |
+| 8        | Nov 30        | Dec 7    | [Single-cell RNA-seq analysis](homeworks/homework08)                   |
 
 ## Course description
 
@@ -99,16 +98,14 @@ Rather, you should be equipped with foundational knowledge in reproducible compu
 
 ## Instructors
 
-For general inquiries about this course, please contact rasi at fredhutch.org
+<!-- For general inquiries about this course, please contact rasi at fredhutch.org -->
 
 - [Phil Bradley](https://www.fredhutch.org/en/labs/profiles/bradley-phil.html)
 - [Melody Campbell](https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html)
-- [Gavin Ha](https://gavinhalab.org/people/Gavin-Ha/)
 - [Maggie Russell](https://www.linkedin.com/in/magdalena-russell/)
 - [Manu Setty](https://research.fredhutch.org/setty/en.html)
 - [Arvind Rasi Subramaniam](http://rasilab.fredhutch.org)
 
 ## Teaching Assistants
 
-- [Avi Swartz](https://www.linkedin.com/in/avi-swartz/)
-- [Jacob Greene](https://www.linkedin.com/in/jacob-greene-890aa318a/)
+- TBD
