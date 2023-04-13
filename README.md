@@ -98,7 +98,7 @@ Rather, you should be equipped with foundational knowledge in reproducible compu
 
 ## Instructors
 
-<!-- For general inquiries about this course, please contact rasi at fredhutch.org -->
+For general inquiries about this course or add codes, please contact GraduateEducation@FredHutch.org
 
 - [Phil Bradley](https://www.fredhutch.org/en/labs/profiles/bradley-phil.html)
 - [Melody Campbell](https://www.fredhutch.org/en/faculty-lab-directory/campbell-melody.html)
