@@ -12,7 +12,7 @@ This document is the syllabus for this course.
 
 ## Class schedule
 
-Time: 3:20PM-4:40PM, Tue & Thu, Sep 28 - Dec 5 2023
+Time: 3:30PM-4:50PM, Tue & Thu, Sep 28 - Dec 5 2023
 
 Class Location: B1-072/074 (Weintraub Building, Fred Hutch SLU campus)
 
