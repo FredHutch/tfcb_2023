@@ -110,5 +110,4 @@ For general inquiries about this course or add codes, please contact GraduateEdu
 ## Teaching Assistants
 
 - Nashwa Ahmed 
-- Katherine Feldmann
 - Sarah Huang
