@@ -16,9 +16,9 @@ Time: 3:30PM-4:50PM, Tue & Thu, Sep 28 - Dec 5 2023
 
 Class Location: B1-072/074 (Weintraub Building, Fred Hutch SLU campus)
 
-TA Office Hours: TBD
+TA Office Hours: 11:00am-12:00pm Wed (Nashwa) 2:00pm-3:00pm Thu (Sarah)
 
-TA Office Hours Location: Zoom (see Slack) 
+TA Office Hours Location: Zoom (see Slack) or 2nd floor of Steam Plant @ Fred Hutch room S2-135
 
 | Lecture | Date   | Instructor          | Topic                                                                                         |
 | ------- | ------ | ------------------- | --------------------------------------------------------------------------------------------- |
