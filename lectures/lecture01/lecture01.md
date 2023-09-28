@@ -10,8 +10,6 @@ theme: night
 customTheme: custom
 ---
 
-This is a test change
-
 ### MCB 536
 
 ## Tools for Computational Biology
@@ -23,13 +21,12 @@ This is a test change
 
 - Locate information relevant to the course (lecture materials, assessment, communication streams)
 - Identify range of skills and concepts covered in this course
-- Learn basics of VSCode, Git, Markdown
 
 ---
 
 ## Communication
 
-Slack Workspace: TFCB_2022
+Slack Workspace: TFCB_2023
 
 - <span style="color:magenta;">#general</span>: course announcements (please turn on notifications for this channel)
 - <span style="color:magenta;">#lectures-homeworks</span>: questions about course content and help for homework
@@ -44,7 +41,7 @@ Slack Workspace: TFCB_2022
 - Rasi Subramaniam
 - Associate Professor in Basic Sciences & Computational Biology @FredHutch
 - Research Area: mRNA Translation
-
+- http://rasilab.fredhutch.org/
 
 ---
 
@@ -52,29 +49,35 @@ Slack Workspace: TFCB_2022
 
 <table>
 <tr>
-<td>
-<img src="./img/instructors/avi-swartz.jpeg" style="width:150px;"/> 
+<td style="padding-right:200px;">
+<img src="./img/instructors/nashwa-ahmed.jpg" style="width:150px;"/> 
 </td>
 <td>
-<img src="./img/instructors/jacob-greene.jpeg"  style="width:150px;"/> 
+<img src="./img/instructors/sarah-huang.png"  style="width:150px;"/> 
 </td>
 </tr>
 <tr>
-<td> 
-Avi Swartz
+<td style="padding-right:200px;">
+Nashwa Ahmed
 </td>
 <td> 
-Jacob Greene 
+Sarah Huang
 </td>
 </tr>
 <tr>
-<td>
-Wed 1-2PM
+<td style="padding-right:200px;">
+Wed 11AM-12PM
 </td>
-<td>Thu 11AM-12PM
+<td>Thu 2PM-3PM
 </td>
 </tr>
 </table>
+
+<div style="font-size:18pt;margin-top:50px;">
+Steam Plant Building, Fred Hutch S2-135 (2nd floor)
+
+Zoom (see Slack for link)
+</div>
 
 
 
@@ -107,7 +110,7 @@ Maggie Russell
 </tr>
 <tr>
 <td>
-<img src="./img/instructors/gavin-ha.jpg" style="width:150px;">
+<img src="./img/instructors/elizabeth-humphries.jpg" style="width:150px;">
 </td>
 <td>
 <img src="./img/instructors/manu-setty.jpeg" style="width:152px;">
@@ -118,7 +121,7 @@ Maggie Russell
 </tr>
 <tr>
 <td>
-Gavin Ha
+Elizabeth Humphries
 </td>
 <td>
 Manu Setty
@@ -129,10 +132,7 @@ Rasi Subramaniam
 </tr>
 </table>
 
-
-
-Herbold Computational Biology Program  
-Fred Hutch
+Computational Biology & Translational Data Science Programs
 
 ---
 
@@ -140,6 +140,7 @@ Fred Hutch
 
 - Name
 - Research interests (type of data, model organism, research questions, etc)
+- Programming background (Python, R, Unix/Bash, etc.)
 - What are you hoping to get out of this course?
 
 ---
@@ -189,17 +190,17 @@ By the end of the course, you should be able to:
 Syllabus, lectures, homeworks
 
 Rendered materials (prettier/easier to view):  
-https://fredhutch.github.io/tfcb_2022/
+https://fredhutch.github.io/tfcb_2023/
 
 Original GitHub repository:
-https://github.com/fredhutch/tfcb_2022
+https://github.com/fredhutch/tfcb_2023
 
 ---
 
 ## Homeworks
 
 Submit through <a href="http://canvas.uw.edu/">Canvas</a>   
-MCB 536 A Au 22
+MCB 536 A Au 23
 Tools For Computational Biology
 
 <p>
@@ -210,42 +211,4 @@ Eight assignments (10% each) + [participation](https://github.com/FredHutch/tfcb
 
 ## Before next class
 
-- Complete [this](https://forms.gle/h8Xpaiu49baTdP7SA) pre-class survey before class (see Slack)
-- Install all required [software](https://github.com/FredHutch/tfcb_2022/blob/master/software/README.md)
-- Ensure you have HutchNetID!
-
-
----
-
-## Play time
-
-- GitHub
-- VSCode
-- Markdown
-
----
-
-## Helpful resources
-
-- [VSCode Intro Video Series](https://code.visualstudio.com/docs/getstarted/introvideos)
-- [Crash Course on Git and GitHub Video](https://www.youtube.com/watch?v=RGOj5yH7evk)
-- [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/)
-
-<!-- 
-
-Demo outline
-
-GitHub
-- Create new Github project
-- Fork GitHub Project
-- Clone from GitHub
-
-VScode
-- Interface: File explorer, command line, git, extensions
-- Git add, commit, push, pull
-
-Markdown
-- Cover syntax https://guides.github.com/features/mastering-markdown/
-- Live Preview in VSCode 
-
--->
+- Install all required [software](https://github.com/FredHutch/tfcb_2022/blob/master/software/README.md) and be prepared with questions!
