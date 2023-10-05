@@ -2,6 +2,7 @@
 
 This document is the syllabus for this course.
 
+
 - [MCB 536: Tools for Computational Biology](#mcb-536-tools-for-computational-biology)
   - [Class schedule](#class-schedule)
   - [Homework and grading](#homework-and-grading)
