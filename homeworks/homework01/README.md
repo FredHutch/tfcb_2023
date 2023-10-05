@@ -1,6 +1,6 @@
 # Homework 1
 
-This homework will assess your ability to use GitHub, organize projects, and apply tidy data principles, and represents content covered in lectures 1 and 2. Fill this README.md document with your answers below and upload this file to Canvas.
+This homework will assess your ability to use GitHub, organize projects, and apply tidy data principles, and represents content covered in lecture 3. Fill this README.md document with your answers below and upload this file to Canvas.
 
 ## Problem 1
 
@@ -16,7 +16,7 @@ _Include the link to your GitHub profile here._
 
 This question assesses your ability to track a project using Git.
 
-Download the course files with the following link: [github.com/FredHutch/tfcb_2021/archive/refs/heads/main.zip](https://github.com/FredHutch/tfcb_2021/archive/refs/heads/main.zip). Copy the contents of `homeworks/homework01/messy-project-directory/` to a new directory on your computer named `tfcb-homework01`.
+Download the course files with the following link: [github.com/FredHutch/tfcb_2023/archive/refs/heads/main.zip](https://github.com/FredHutch/tfcb_2023/archive/refs/heads/main.zip). Copy the contents of `homeworks/homework01/messy-project-directory/` to a new directory on your computer named `tfcb-homework01`.
 
 Open the above `tfcb-homework01` in VSCode and "Initialize Repository" in the Source Control Tab. 
 
@@ -35,7 +35,7 @@ This question assesses your ability to publish projects to GitHub.
 
 Create a new repository on GitHub called `tfcb-homework01`.
 Make sure to set this to be a "public" repository.
-The resulting repository can now be accessed at `github.com/{your_name}/tfcb-homework01`. 
+The resulting repository can now be accessed at `github.com/{your_username}/tfcb-homework01`. 
 If necessary, you can make this repository public by going to "Settings" from this page.
 
 Push the local `tfcb-homework01` to GitHub.
@@ -76,8 +76,8 @@ This question assesses your understanding of tidy data principles.
 
 Clean up the file that was originally named `Survey Data.xlsx`. Some points to remember: aim for a single tidy data frame in a single tab, don't use formatting as data, use preferred date format, properly record null values.
 
-Export this as a tab-delimited `.tsv` text file with Unix line endings.
+Export this as a tab-delimited `.csv` text file with Unix line endings.
 
-Commit the modified `.xlsx` file and the `.tsv` file and publish to your public GitHub repository.
+Commit the modified `.xlsx` file and the `.csv` file and publish to your public GitHub repository.
 
-_Include the link to your `.tsv` file on GitHub here._
+_Include the link to your `.csv` file on GitHub here._

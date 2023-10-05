@@ -15,18 +15,19 @@ customTheme: custom
 
 ## [Rasi Subramaniam](http://rasilab.fredhutch.org)
 
-[Link to slides](https://fredhutch.github.io/tfcb_2022/lectures/lecture03/revealjs_slides/index.html)
+[Link to slides](https://fredhutch.github.io/tfcb_2023/lectures/lecture03/revealjs_slides/index.html)
 
 ---
 
 ## Reminders
 
-The homework assignment is available today (October 6) and is due October 13 at 3:20pm.
+The homework assignment is available today (October 5) and is due October 12 at 3:30pm.
 
 ---
 
 ## Learning objectives
 
+- Learn basics of VScode, GitHub, and Markdown
 - Identify minimum requirements for a reproducible computational project
 - Apply good practices for file organization 
 - Use `tidy` principles for tabular (`spreadsheet`-style) data
@@ -35,11 +36,20 @@ The homework assignment is available today (October 6) and is due October 13 at 
 
 ## Outline
 
-1. Elements of reproducibility
-2. File organization
-3. Tidy data
+1. Hands on demo of VSCode, GitHub, Markdown
+2. Elements of reproducibility
+3. File organization
+4. Tidy data
 
+<div style="font-size:18pt;margin-top:20px;">
 This class requires Microsoft Excel or LibreOffice Calc (for opening `.xlsx` or `.csv` files).
+</div>
+
+## Helpful resources
+
+- [VSCode Intro Video Series](https://code.visualstudio.com/docs/getstarted/introvideos)
+- [Crash Course on Git and GitHub Video](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Markdown Syntax Guide](https://guides.github.com/features/mastering-markdown/)
 
 ---
 
@@ -134,14 +144,14 @@ project_name
   |-- grants/
   |-- presentations/
   |-- manuscripts/
-  |-- .devcontainer/
+  |-- install/
   |-- .gitignore
   |-- README.md
 ```
 
 - Use `README.md` to give an overview of the project and file organization
 - Use `.gitignore` to ignore files that should not be tracked by git
-- Use `.devcontainer/` to define the software environment for analysis (specific to VSCode), also called `.install/`
+- Use `install/` to define the software environment for analysis (can also use [GitHub Packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages) eg. see https://github.com/orgs/rasilab/packages)
 
 ---
 
@@ -241,7 +251,7 @@ tutorial for an `R`-centric overview of tidy data.
 
 <aside class="notes">
 
-Saving data as plain text files is necessarily to process this data with either R or Python. You can export from Excel to `.tsv` (tab-delimited, preferred format) or `.csv` (comma-delimited). A few things to note when exporting data files in these formats:
+Saving data as plain text files is necessarily to process this data with either R or Python. You can export from Excel to `.csv` (comma-delimited) or `.tsv` (tab-delimited). A few things to note when exporting data files in these formats:
 
 - Beware that [line endings](https://support.nesi.org.nz/hc/en-gb/articles/218032857-Converting-from-Windows-style-to-UNIX-style-line-endings) differ between Windows and Unix (including Mac), though the text editors we recommend for this class can deal with this
 - Exporting from Excel only works for the currently displayed spreadsheet. If you have multiple sheets, you'll need to export multiple times.
