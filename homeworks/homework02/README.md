@@ -37,7 +37,7 @@ This script should also create a directory called homework02, and move question0
 Example:
 My username is campbellm
 My home directory is /Users/melody
-The contents of the tfcb_2022/lectures/lecture04/ directory are
+The contents of the tfcb_2023/lectures/lecture04/ directory are
 01-first-steps.md
 02-directories
 03-redirection
@@ -68,7 +68,7 @@ file###.txt
 
 the ### should be the numbers from a list you can find here:
 
-tfcb_2022/homeworks/homework02/list.txt
+tfcb_2023/homeworks/homework02/list.txt
 
 You can make the contents of those files whatever you want (hint: slide 10... what was the contents of the fake "jpg" file?)
 
