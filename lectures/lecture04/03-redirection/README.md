@@ -6,7 +6,11 @@ Let's make sure we're in the right place-- `pwd` should end in `03-redirection`.
 
 ## Pipes
 
-Think back to the long file `sequence.gb` We used the grep command to only look at the header (lines containing `/`)
+Although we only used very short examples previously imagine the very long and complicated sequence, found in this directory as  `sequence.gb` Try to cat this file.
+
+We can use the grep command to only look at the header (lines containing `/`)
+
+    grep / ../sequence.gb
 
 What if we wanted to quickly list out all of the protein id that start with AAA.
 
