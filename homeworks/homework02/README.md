@@ -34,7 +34,7 @@ This file should contain the following text:
 
 This script should also create a directory called homework02, and move question01.txt into the homework02 directory.
 
-Example:
+An example output answer should be:
 My username is campbellm
 My home directory is /Users/melody
 The contents of the tfcb_2023/lectures/lecture04/ directory are
@@ -50,6 +50,8 @@ quickref.md
 sequence.gb
 slides
 vader.txt
+
+_Paste your SCRIPT here_
 
 
 ## Problem 2
@@ -70,6 +72,8 @@ the ### should be the numbers from a list you can find here:
 
 tfcb_2023/homeworks/homework02/list.txt
 
-You can make the contents of those files whatever you want (hint: slide 10... what was the contents of the fake "jpg" file?)
+You can make the contents of those files whatever you want (hint: slide 9... )
+
+_Paste your SCRIPT here_
 
 
