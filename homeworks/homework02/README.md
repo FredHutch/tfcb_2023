@@ -35,21 +35,22 @@ This file should contain the following text:
 This script should also create a directory called homework02, and move question01.txt into the homework02 directory.
 
 An example output answer should be:
-My username is campbellm
-My home directory is /Users/melody
-The contents of the tfcb_2023/lectures/lecture04/ directory are
-01-first-steps.md
-02-directories
-03-redirection
-04-vim
-05-history
-06-scripting
-07-more-interactive-shell
-README.md
-quickref.md
-sequence.gb
-slides
-vader.txt
+
+My username is campbellm <br>
+My home directory is /Users/melody <br>
+The contents of the tfcb_2023/lectures/lecture04/ directory are<br>
+01-first-steps.md<br>
+02-directories<br>
+03-redirection<br>
+04-vim<br>
+05-history<br>
+06-scripting<br>
+07-more-interactive-shell<br>
+README.md<br>
+quickref.md<br>
+sequence.gb<br>
+slides<br>
+vader.txt<br>
 
 _Paste your SCRIPT here_
 
