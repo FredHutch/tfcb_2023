@@ -36,12 +36,12 @@ execute the following commands:
 
 (Optional) If you followed along yesterday for the interactive lecture, you will need to mv your directory since it has the same name as the one we will use today.
 
-    mv tfcb_2022 tfcb_2022_inclass
+    mv tfcb_2023 tfcb_2023_inclass
     
 Then use this command to grab the materials we'll work though today:
 
-    git clone https://github.com/fredhutch/tfcb_2022.git
-    cd tfcb_2022/lectures/lecture04
+    git clone https://github.com/fredhutch/tfcb_2023.git
+    cd tfcb_2023/lectures/lecture04
 
 Now you can start the first lesson by clicking [here](https://fredhutch.github.io/tfcb_2022/lectures/lecture04/01-first-steps).
 We recommend keeping a browser open with the lesson materials as you work through the exercises on VS Studio or your computer.
