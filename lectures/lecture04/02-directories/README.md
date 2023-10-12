@@ -4,7 +4,7 @@ Before you get started, type
 
     pwd
 
-again and make sure that the output ends with `tfcb_2022/lectures/lecture04`.
+again and make sure that the output ends with `tfcb_2023/lectures/lecture04`.
 
 # Directories
 
@@ -30,7 +30,7 @@ The `pwd` command is short for "print working directory."
 
 On my computer the `pwd` command outputs
 
-    /home/melody/tfcb_2022/lectures/lecture04/02-directories
+    /home/melody/tfcb_2023/lectures/lecture04/02-directories
 
 which shows the list of directories I'm in.
 Such a list of directories (perhaps ending with a file name) is called an _absolute path_.
@@ -41,7 +41,7 @@ Remember how before we learned how to give an argument to the directory-listing 
 Try this: give that command a part of your path, so see the list of files at various places in your directory hierarchy.
 For example, on my computer I could try
 
-    ls /home/melody/tfcb_2022
+    ls /home/melody/tfcb_2023
 
 but on your machine the path components will be different.
 
