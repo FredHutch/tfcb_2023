@@ -44,13 +44,16 @@ I think you've already cloned the repo via this command, but if not then use thi
 
 I've made some changes since class started! Please update your repo:
 
-   cd tfcb_2023
-   git pull
+    cd tfcb_2023
+    git pull
+
 
 VERY IMPORTANT! If you have issues here let me know!!
 
 Otherwise
+
     cd tfcb_2023/lectures/lecture04
+
 
 Now you can start the first lesson by clicking [here](https://fredhutch.github.io/tfcb_2023/lectures/lecture04/01-first-steps).
 We recommend keeping a browser open with the lesson materials as you work through the exercises on VS Studio or your computer.
