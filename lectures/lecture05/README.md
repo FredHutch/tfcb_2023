@@ -16,7 +16,7 @@ After these two lectures, you should be able to:
 - Write a basic shell script (lecture 05)
 
 
-In the second lecture, We will go over the commands presented in the previous session. We will use some of these commands to write a for loop that can automate tasks. We will also learn how to edit a file using vim and how to write and submit a shell script. A signficant portion of this session will be dedicated to working though the tutorial, initially made by [Erick Matsen](https://twitter.com/ematsen).
+In the second lecture, We will go over the commands presented in the previous session. We will use some of these commands to write a for loop that can automate tasks. We will also learn how to edit a file using vim and how to write and submit a shell script. A signficant portion of this session will be dedicated to working though the tutorial, initially made by [Erick Matsen](https://twitter.com/ematsen). He is much funnier than I am, so all credit to him!
 
 [The slides are here](https://github.com/FredHutch/tfcb_2022/blob/main/lectures/lecture05/slides/2022oct13_MCB536_Lecture05.pdf), and if you missed the lecture [here will be a recorded version](https://washington.zoom.us). 
 
