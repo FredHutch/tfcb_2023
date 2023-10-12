@@ -5,9 +5,9 @@
 This lesson introduces you to the command line (a.k.a. Unix shell), which is useful (and necessary) for automating tasks, working with files/directories, and using compute clusters.
 
 In the first lecture, I will describe the history of and larger context for why we want to use the command line.
-[Here are the slides](https://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html), and if you missed the lecture [here is a recorded version](https://washington.zoom.us/rec/share/kAlIrKjjhTXqy76tNzHBJG8g1BlglpnBkWj4vAS-7taesKBxFPTeyd6X4vmBnTnw.RXJ0i7Snc2N6Trel). 
+[The slides will be here](zzhttps://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html), and if you missed the lecture [here is a similar recorded version from 2022](https://washington.zoom.us/rec/share/kAlIrKjjhTXqy76tNzHBJG8g1BlglpnBkWj4vAS-7taesKBxFPTeyd6X4vmBnTnw.RXJ0i7Snc2N6Trel). 
 
-If you want a second opnion or want to learn cluser-based computing and paralleization, [here is a recorded version](https://www.youtube.com/watch?v=dzkacZ2BTjw) covering related material by Erick Matsen in 2020.
+If you want a second opnion or want to learn cluser-based computing and paralleization, [here is a recorded version](https://www.youtube.com/watch?v=dzkacZ2BTjw) and [here are the slides](https://fredhutch.github.io/tfcb_2021/lectures/lecture03/slides/slides.html) covering related material by Erick Matsen in 2020.
 
 
 ## Learning objectives
@@ -44,7 +44,7 @@ This material requires access to a [unix shell](https://fredhutch.github.io/tfcb
 
 ## Reminders
 
-- Homework 2 (command line) will be available [here](https://fredhutch.github.io/tfcb_2022/homeworks/homework02) on October 13th; it may be useful to reference these questions as you work through material in the second class.
+- Homework 2 (command line) will be available [here](https://fredhutch.github.io/tfcb_2023/homeworks/homework02) on October 12th; it may be useful to reference these questions as you work through material in the second class.
 
 ## Further references
 
