@@ -71,7 +71,7 @@ Now you should be able to run your script with `./script1.sh`.
 
 "Classic" shell is a complex programming language.
 The most frequently used shell, called "bash", [is way more complex](https://www.tldp.org/LDP/abs/html/).
-As I've said before, I do not suggest that you write complex shell scripts.
+Many suggest against writing complex shell scripts.
 
 Nevertheless, shell is the easiest way to automate lots of processes happening on large servers, which is the whole reason we're doing all of this.
 So let's do this!
