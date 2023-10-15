@@ -63,37 +63,25 @@ They don't cause any harm, and are a natural part of working in the shell.
 
 Try this command with a flag:
 
-    ls -1 /
+    ls -l /
 
-Here `-1` is a flag which specifies that the listing should happen in a single column.
+Here `-l` is a flag which specifies that the list should be in 'long form'.
 Flags generally go before the arguments, but some commands will allow them in any order.
-
-Does `ls` allow flags after arguments?
-Try it out!
 
 Flags modify some form of the command behavior, and can range from simple to rather complex.
 
-Flags can have arguments, like
-
-    ls -w 50 /
-
-in which we give the `-w` flag the value of 50.
-The `-w` flag tells `ls` that the user wants to wrap output to some number of letters wide and no wider, in this case 50 letters wide.
-
-Try varying the argument to `-w` from very small to very large.
-Are negative numbers allowed?
-
-All flags start with a dash , like `-1` and `-w` did.
+All flags start with a dash .
 They can be longer than one letter, such as `-name`.
 
 Some flags start with two dashes, like `--verbose`.
 Generally two-dash flags are for long names and single-dash flags are for short names, but this convention isn't always consistently applied.
 
-For example, try using `--width` in place of `-w` in the command above.
-Does `-width` work?
+For example, try using `--long` in place of `-l` in the command above.
+Does `-long` work?
 
 Try `ls /` with and without using the `-a` flag.
-Then try the `-a` and `-1` flags together as `ls -a -1`.
+Then try the `-a` and `-l` flags together as `ls -a -l`.
+What about `ls -ltr` ?
 
 
 ## Looking at files
@@ -125,7 +113,7 @@ Try
 
     less --help
 
-to find the commands that allow you to move forward and backward by page, and use them to view `sequence.gb`.
+to find the commands that allow you to move forward and backward by page (aka window), and use them to view `sequence.gb`.
 
 Additionally, sometimes you may only be interested in reading a specific part of a file.
 For this sequence file, lines containing header information start with a '\/'. If you want to print only that, use the `grep` command:
