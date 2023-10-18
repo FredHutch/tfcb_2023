@@ -22,4 +22,4 @@ After this section, you should be able to write Python functions that perform so
 
 ## Reminders
 
-- [Homework 4](../../homeworks/homework04) will be finalized by end-of-class on October 27th and will be due on November 3rd
+- [Homework 4](../../homeworks/homework04) will be finalized by end-of-class on October 26th and will be due on November 2nd
