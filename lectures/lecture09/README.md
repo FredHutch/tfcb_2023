@@ -1,18 +1,15 @@
 # Lecture 09: Practical analyses in Python
 
 This lecture will continue using Python to perform biological sequence analyses.
-In particular, we will use [Biopython](https://biopython.org) to read in sequencing data.
-We will also briefly use [pandas](https://pandas.pydata.org/) for handling data frames and plotting.
+In particular, we will use [Biopython](https://biopython.org) to read in sequencing data and process sequences.
 
 ## Learning objectives
 
-After this lecture, you should be able to write Python functions:
+After this lecture, you should be able to:
 
-- Parse barcodes from a real deep-sequencing experiment.
-
-- Convert data into a data frame.
-
-- Plot basic data.
+- Read sequencing files into Python using `BioPython`
+- Use `BioPython` methods to work with sequence data
+- Parse barcodes from a real deep-sequencing experiment
 
 ## Class materials
 
