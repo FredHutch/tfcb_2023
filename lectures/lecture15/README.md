@@ -3,7 +3,7 @@
 This lecture will unite the last lecture's content on genomic analysis with our previous coding in R. The packages we'll use this week are from [Bioconductor](http://bioconductor.org), a collection of software specifically designed for genomic analysis in R.
 
 ## Lecture Notes
-[Lecture slides](./MCB536_lecture15_GenomicDataInR.pdf)
+[Lecture slides](https://github.com/FredHutch/tfcb_2023/blob/main/lectures/lecture15/MCB%20536%20Lecture%2015_16%20Nov%202023.pdf)
 
 ## Learning objectives
 
@@ -50,7 +50,7 @@ We will be working through some tutorials directly on your laptop using R.
   
 ### 3. Class materials: Genomic and sequencing data for the tutorials
 
-- Please download all data files found in [this folder](https://drive.google.com/drive/folders/13jM29nhzELyThKQXl27MrRXxbziVunQr?usp=sharing) and add them to your `lecture15` directory. The files should have the following filenames:
+- Please download all data files found in [this folder](https://drive.google.com/drive/folders/1OmUjQ5HSXG9Ka8lEC3i3GjaZb6ZazBrb) and add them to your `lecture15` directory. The files should have the following filenames:
   - `BRCA.genome_wide_snp_6_broad_Level_3_scna.seg`
   - `GIAB_highconf_v.3.3.2.vcf.gz` (if this file was automatically uncompressed on your computer, resulting in a file named `GIAB_highconf_v.3.3.2.vcf`, look in your Trash folder to find the original file ending in `gz`)
   - `GIAB_highconf_v.3.3.2.vcf.gz.tbi`
