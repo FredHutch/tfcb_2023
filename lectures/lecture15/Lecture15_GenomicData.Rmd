@@ -15,7 +15,7 @@ Genomic data is often described using chromosomes and coordinates. A locus can b
 
 An additional package called `plyranges` provides convenient syntax similar to that used in `tidyverse` to manipulate and apply operations on `Granges` objects. See https://www.bioconductor.org/packages/devel/bioc/vignettes/plyranges/inst/doc/an-introduction.html
 
-In this tutorial, we will work with The Cancer Genome Atlas (TCGA) data for primary breast cancer patient samples. Specifically, these are segmentation data used for copy number alteration analysis. See Lecture 16: Slide 47.
+In this tutorial, we will work with The Cancer Genome Atlas (TCGA) data for primary breast cancer patient samples. Specifically, these are segmentation data used for copy number alteration analysis. 
 
 ## 0. Load the `GenomicRanges` Bioconductor package
 ```{r, message=FALSE}
@@ -37,7 +37,7 @@ myGRange <- data.frame(seqnames = "17", start = 37844393, end = 37844393) %>% as
 ```
 
 ## 2. Load Genomic Data From A File
-There are numerous text file formats for representing genomic data and some of these were discussed in Lecture 16. Here, we will show you that a `GRanges` can be easily created from any text file that contains delimited columns specifying genomic coorindates.
+There are numerous text file formats for representing genomic data and some of these were discussed in Lecture 14. Here, we will show you that a `GRanges` can be easily created from any text file that contains delimited columns specifying genomic coorindates.
 
 ### 2.1 SEG format
 SEGment Data (http://software.broadinstitute.org/software/igv/SEG) format is tab-delimited and a flexible way to define any genomic data.
