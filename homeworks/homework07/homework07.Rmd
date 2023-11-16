@@ -21,7 +21,7 @@ iii. This homework requires use of data files:
   
 iv. You will be graded on your code and output results (knitted .html file). The assignment is worth 50 points total; partial credit can be awarded.
 
-This assignment is due on **Dec 1, 2022**. 
+This assignment is due on **Nov 30, 2023**. 
 
 For additional resources, please refer to these links:  
 Problems 1 & 2:  
@@ -35,7 +35,7 @@ Problem 4:
 # Problem 1: Overlaps between genomic regions and copy number alterations. (14 points total)
 
 ### Preparation
-Load copy number segment results as shown in *2.1 BED format* of *Lecture16_GenomicData.Rmd*. You will use the same file as in the lecture notes, `BRCA.genome_wide_snp_6_broad_Level_3_scna.seg`. Here is code to get you started.
+Load copy number segment results as shown in *2.1 BED format* of *Lecture15_GenomicData.Rmd*. You will use the same file as in the lecture notes, `BRCA.genome_wide_snp_6_broad_Level_3_scna.seg`. Here is code to get you started.
 ```{r, message=FALSE}
 library(tidyverse)
 library(GenomicRanges)
@@ -68,7 +68,7 @@ Find the counts of samples with deletion (D; `Segment_Mean < -0.3`), neutral (N;
 This problem will continue to use the copy number data stored in `segs.gr`.
 
 ### a. Create a genome-wide tile of 1Mb windows for the human genome (`hg19`). (4 points)
-See *3.1 Tiling the genome* of *Lecture16_GenomicData.Rmd* for hints.
+See *3.1 Tiling the genome* of *Lecture15_GenomicData.Rmd* for hints.
 ```{r}
 
 ```
@@ -107,11 +107,11 @@ You may use your choice of data objects (e.g. `data.frame`).
 ```
 
 ### c. Retrieve the following information at chr8:128747953. (8 points)
-Print out the SNP ID (i.e. "rs ID"), reference base (`REF`), alterate base (`ALT`), genotype (`GT`), depth (`DP`), allele depth (`ADALL`), phase set (`PS`).
+Print out the SNP ID (i.e. "rs ID"), reference base (`REF`), alternate base (`ALT`), genotype (`GT`), depth (`DP`), allele depth (`ADALL`), phase set (`PS`).
 
 Hints: 
 
-  i. `REF` and `ALT` are in the output of `rowRanges(vcf)`. See Section `3a` in `Lecture16_VariantCalls.Rmd` 
+  i. `REF` and `ALT` are in the output of `rowRanges(vcf)`. See Section `3a` in `Lecture15_VariantCalls.Rmd` 
   ii. To get the sequence of `DNAString`, use `as.character(x)`.  
   ii. To get the sequence of `DNAStringSet`, use `as.character(unlist(x))`. 
   iii. To expand a list of information for `geno`, use `unlist(x)`.  

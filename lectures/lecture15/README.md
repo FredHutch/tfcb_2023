@@ -3,7 +3,7 @@
 This lecture will unite the last lecture's content on genomic analysis with our previous coding in R. The packages we'll use this week are from [Bioconductor](http://bioconductor.org), a collection of software specifically designed for genomic analysis in R.
 
 ## Lecture Notes
-[Lecture slides](./MCB536_lecture15_GenomicDataInR.pdf)
+[Lecture slides](./MCB 536 Lecture 15_16 Nov 2023.pdf)
 
 ## Learning objectives
 
